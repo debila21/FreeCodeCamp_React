@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none; ;
+}
+div{
+    position: relative;
+}
+
+body{
+    position: relative;
+    justify-content: center;
+  align-items: center;  
+  display: flex;
+}
+#quote-box{
+    position: relative;
+    
+}
+
